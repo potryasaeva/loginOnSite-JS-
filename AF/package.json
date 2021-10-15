@@ -1,0 +1,27 @@
+{
+  "name": "af",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "asserts": "^4.0.2"
+  },
+  "devDependencies": {
+    "assert": "^2.0.0",
+    "chai": "^4.3.0",
+    "chai-webdriver": "^1.2.3",
+    "chimp": "^3.2.4",
+    "chromedriver": "^88.0.0",
+    "faker": "^5.4.0",
+    "mocha": "^8.3.0",
+    "selenium-webdriver": "^4.0.0-beta.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
